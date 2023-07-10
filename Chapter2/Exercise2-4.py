@@ -8,3 +8,9 @@ print(f"Your name is {name} \n In Lower case = {tobi_lower}\n In Upper case = {t
  #In Lower case = tobiloba
  #In Upper case = TOBILOBA
  #In Title case = Tobiloba
+#--------------------------------#
+Quote = "Ologbon Ju, Ogbon, Ogbon"
+Person = "Asake"
+print (f"{Person} once said \"{Quote}\"")
+#Output: Asake once said "Ologbon Ju, Ogbon, Ogbon"
+
